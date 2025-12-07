@@ -1,0 +1,4 @@
+pyTelegramBotAPI
+aiohttp
+fake-useragent
+ms4
